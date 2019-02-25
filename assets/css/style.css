@@ -243,9 +243,9 @@ footer {
   margin-right: 25px;
     
 }
-nav {
+  nav {
   margin-right: 30px;
-}
+  }
 }
 
 @media screen and (max-width: 640px) {
